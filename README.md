@@ -4,7 +4,7 @@
 
 * `apt update`
 * `apt install git -y`
-* `git clone github.com/htr-tech/gophisher`
+* `git clone www.github.com/B4SOHEIL/gophisher`
 * `cd gophisher`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
