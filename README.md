@@ -1,4 +1,4 @@
-## ***Project not maintained anymore. Use [ZPhisher](https://github.com/B4SOHEIL/gophisher)***
+## ***Project not maintained anymore. Use [gophisher](https://github.com/B4SOHEIL/gophisher)***
 
 ## Installation :
 
@@ -25,7 +25,7 @@ apt update ; apt install git -y ; git clone git://github.com/B4SOHEIL/gophisher 
 #### [+] Easy for Beginners !
 
 ## Credits :
-#### > Zphisher (https://github.com/B4SOHEIL/gophisher)
+#### > SOHEIL (https://github.com/B4SOHEIL/gophisher)
 
 ## Tunelling Options :
 #### > Localhost (127.0.0.1)
